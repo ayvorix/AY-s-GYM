@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 :root {
     color-scheme: dark;
     --bg: #081322;
@@ -1207,5 +1207,4 @@ textarea {
         transition-duration: 0.01ms !important;
         scroll-behavior: auto !important;
     }
->>>>>>> cd345c4 (commited)
 }
